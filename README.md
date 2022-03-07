@@ -12,3 +12,4 @@ The user can create a task, list all tasks ou a specific task; can update and de
 - Linq
 - Rest API
 - HTTPS
+- SQLite
